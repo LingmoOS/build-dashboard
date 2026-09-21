@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LingmoOS Build Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">◈</span>
+      <h1>LingmoOS <span class="accent">Build Dashboard</span></h1>
+    </div>
+    <div class="meta">
+      <span id="generated-at" class="meta-item"></span>
+      <button id="refresh" class="refresh-btn" title="Refresh data">↻ Refresh</button>
+    </div>
+  </header>
+
+  <section class="stats">
+    <div class="stat-card"><div class="stat-value" id="stat-total">–</div><div class="stat-label">Repositories</div></div>
+    <div class="stat-card success"><div class="stat-value" id="stat-success">–</div><div class="stat-label">Build passed</div></div>
+    <div class="stat-card failure"><div class="stat-value" id="stat-failure">–</div><div class="stat-label">Build failed</div></div>
+    <div class="stat-card running"><div class="stat-value" id="stat-running">–</div><div class="stat-label">In progress</div></div>
+    <div class="stat-card"><div class="stat-value" id="stat-released">–</div><div class="stat-label">Released</div></div>
+  </section>
+
+  <section class="toolbar">
+    <input type="text" id="search" placeholder="Search repositories…" autocomplete="off">
+    <div class="filters">
+      <button class="filter active" data-filter="all">All</button>
+      <button class="filter" data-filter="success">Passed</button>
+      <button class="filter" data-filter="failure">Failed</button>
+      <button class="filter" data-filter="running">Running</button>
+      <button class="filter" data-filter="none">No build</button>
+      <button class="filter" data-filter="released">Released</button>
+    </div>
+  </section>
+
+  <main>
+    <div class="table-head">
+      <span>Repository</span>
+      <span>Build</span>
+      <span>Latest release</span>
+    </div>
+    <ul id="repo-list" class="repo-list"></ul>
+  </main>
+
+  <footer class="footer">
+    <span>Data refreshed by GitHub Actions every 15 minutes.</span>
+    <span id="last-error" class="error"></span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
