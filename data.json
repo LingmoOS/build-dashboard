@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T15:39:17.808527+00:00",
+  "generated_at": "2026-09-22T15:51:38.337845+00:00",
   "repos": [
     {
       "name": "accountsservice",
@@ -556,13 +556,13 @@
     {
       "name": "gtk4",
       "build": {
-        "status": "in_progress",
-        "conclusion": null,
+        "status": "completed",
+        "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
         "url": "https://github.com/Matrinsoft/gtk4/actions/runs/35747827737",
         "run_at": "2026-09-22T15:30:24Z",
-        "updated_at": "2026-09-22T15:30:34Z"
+        "updated_at": "2026-09-22T15:41:57Z"
       },
       "release": {
         "tag": "v4.23.4",
@@ -628,13 +628,13 @@
     {
       "name": "libadwaita",
       "build": {
-        "status": "in_progress",
-        "conclusion": null,
+        "status": "completed",
+        "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
         "url": "https://github.com/Matrinsoft/libadwaita/actions/runs/35747873473",
         "run_at": "2026-09-22T15:30:45Z",
-        "updated_at": "2026-09-22T15:30:50Z"
+        "updated_at": "2026-09-22T15:45:49Z"
       },
       "release": {
         "tag": "v1.10-beta.1",
@@ -781,13 +781,13 @@
     {
       "name": "NetworkManager",
       "build": {
-        "status": "in_progress",
-        "conclusion": null,
+        "status": "completed",
+        "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
         "url": "https://github.com/Matrinsoft/NetworkManager/actions/runs/35747432647",
         "run_at": "2026-09-22T15:27:07Z",
-        "updated_at": "2026-09-22T15:27:12Z"
+        "updated_at": "2026-09-22T15:50:45Z"
       },
       "release": {
         "tag": "v1.58.1",
@@ -1171,16 +1171,19 @@
     {
       "name": "systemd",
       "build": {
-        "status": "in_progress",
-        "conclusion": null,
+        "status": "completed",
+        "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
         "url": "https://github.com/Matrinsoft/systemd/actions/runs/35748191759",
         "run_at": "2026-09-22T15:33:29Z",
-        "updated_at": "2026-09-22T15:33:46Z"
+        "updated_at": "2026-09-22T15:49:18Z"
       },
       "release": {
-        "tag": null
+        "tag": "v262-rc3",
+        "name": "v262-rc3",
+        "url": "https://github.com/Matrinsoft/systemd/releases/tag/v262-rc3",
+        "published_at": "2026-09-22T15:49:15Z"
       }
     },
     {
@@ -1273,13 +1276,13 @@
     {
       "name": "vte291",
       "build": {
-        "status": "in_progress",
-        "conclusion": null,
+        "status": "completed",
+        "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
         "url": "https://github.com/Matrinsoft/vte291/actions/runs/35748249491",
         "run_at": "2026-09-22T15:33:59Z",
-        "updated_at": "2026-09-22T15:36:17Z"
+        "updated_at": "2026-09-22T15:40:58Z"
       },
       "release": {
         "tag": "v0.84.1",
