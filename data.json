@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T14:56:39.560475+00:00",
+  "generated_at": "2026-09-22T15:01:45.575069+00:00",
   "repos": [
     {
       "name": "accountsservice",
@@ -487,13 +487,13 @@
     {
       "name": "glib2",
       "build": {
-        "status": "in_progress",
-        "conclusion": null,
+        "status": "completed",
+        "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
         "url": "https://github.com/Matrinsoft/glib2/actions/runs/35742977780",
         "run_at": "2026-09-22T14:49:15Z",
-        "updated_at": "2026-09-22T14:50:55Z"
+        "updated_at": "2026-09-22T14:58:01Z"
       },
       "release": {
         "tag": "v2.89.4",
@@ -553,13 +553,13 @@
     {
       "name": "gtk4",
       "build": {
-        "status": "in_progress",
-        "conclusion": null,
+        "status": "completed",
+        "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
         "url": "https://github.com/Matrinsoft/gtk4/actions/runs/35743022545",
         "run_at": "2026-09-22T14:49:39Z",
-        "updated_at": "2026-09-22T14:49:51Z"
+        "updated_at": "2026-09-22T14:59:40Z"
       },
       "release": {
         "tag": "v4.23.4",
@@ -589,13 +589,13 @@
     {
       "name": "hplip",
       "build": {
-        "status": "in_progress",
-        "conclusion": null,
+        "status": "completed",
+        "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
         "url": "https://github.com/Matrinsoft/hplip/actions/runs/35743038274",
         "run_at": "2026-09-22T14:49:47Z",
-        "updated_at": "2026-09-22T14:50:48Z"
+        "updated_at": "2026-09-22T14:57:14Z"
       },
       "release": {
         "tag": "v3.26.4",
@@ -742,13 +742,13 @@
     {
       "name": "mutter",
       "build": {
-        "status": "in_progress",
-        "conclusion": null,
+        "status": "completed",
+        "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
         "url": "https://github.com/Matrinsoft/mutter/actions/runs/35743117556",
         "run_at": "2026-09-22T14:50:27Z",
-        "updated_at": "2026-09-22T14:50:41Z"
+        "updated_at": "2026-09-22T14:58:50Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -1114,13 +1114,13 @@
     {
       "name": "software",
       "build": {
-        "status": "in_progress",
-        "conclusion": null,
+        "status": "completed",
+        "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
         "url": "https://github.com/Matrinsoft/software/actions/runs/35743236755",
         "run_at": "2026-09-22T14:51:27Z",
-        "updated_at": "2026-09-22T14:55:01Z"
+        "updated_at": "2026-09-22T14:58:09Z"
       },
       "release": {
         "tag": "v51.0",
@@ -1270,13 +1270,13 @@
     {
       "name": "vte291",
       "build": {
-        "status": "in_progress",
-        "conclusion": null,
+        "status": "completed",
+        "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
         "url": "https://github.com/Matrinsoft/vte291/actions/runs/35743316644",
         "run_at": "2026-09-22T14:52:08Z",
-        "updated_at": "2026-09-22T14:54:28Z"
+        "updated_at": "2026-09-22T14:59:16Z"
       },
       "release": {
         "tag": "v0.84.1",
@@ -1324,13 +1324,13 @@
     {
       "name": "xdg-desktop-portal-gnome",
       "build": {
-        "status": "in_progress",
-        "conclusion": null,
+        "status": "completed",
+        "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
         "url": "https://github.com/Matrinsoft/xdg-desktop-portal-gnome/actions/runs/35743349155",
         "run_at": "2026-09-22T14:52:24Z",
-        "updated_at": "2026-09-22T14:55:21Z"
+        "updated_at": "2026-09-22T14:57:58Z"
       },
       "release": {
         "tag": "v51-rc",
