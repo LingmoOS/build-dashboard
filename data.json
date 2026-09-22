@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:24:00.648288+00:00",
+  "generated_at": "2026-09-22T16:30:08.166661+00:00",
   "repos": [
     {
       "name": "accountsservice",
@@ -556,13 +556,13 @@
     {
       "name": "gtk4",
       "build": {
-        "status": "in_progress",
-        "conclusion": null,
+        "status": "completed",
+        "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
         "url": "https://github.com/Matrinsoft/gtk4/actions/runs/35752588649",
         "run_at": "2026-09-22T16:12:44Z",
-        "updated_at": "2026-09-22T16:13:18Z"
+        "updated_at": "2026-09-22T16:25:08Z"
       },
       "release": {
         "tag": "v4.23.4",
@@ -628,13 +628,13 @@
     {
       "name": "libadwaita",
       "build": {
-        "status": "in_progress",
-        "conclusion": null,
+        "status": "completed",
+        "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
         "url": "https://github.com/Matrinsoft/libadwaita/actions/runs/35752618354",
         "run_at": "2026-09-22T16:12:59Z",
-        "updated_at": "2026-09-22T16:13:37Z"
+        "updated_at": "2026-09-22T16:26:14Z"
       },
       "release": {
         "tag": "v1.10-beta.1",
