@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T15:51:38.337845+00:00",
+  "generated_at": "2026-09-22T16:24:00.648288+00:00",
   "repos": [
     {
       "name": "accountsservice",
@@ -8,9 +8,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/accountsservice/actions/runs/35747504196",
-        "run_at": "2026-09-22T15:27:41Z",
-        "updated_at": "2026-09-22T15:28:44Z"
+        "url": "https://github.com/Matrinsoft/accountsservice/actions/runs/35752306930",
+        "run_at": "2026-09-22T16:10:13Z",
+        "updated_at": "2026-09-22T16:11:22Z"
       },
       "release": {
         "tag": "v26.27.3",
@@ -26,9 +26,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/adobe-source-code-pro-fonts/actions/runs/35747511777",
-        "run_at": "2026-09-22T15:27:44Z",
-        "updated_at": "2026-09-22T15:28:57Z"
+        "url": "https://github.com/Matrinsoft/adobe-source-code-pro-fonts/actions/runs/35752318048",
+        "run_at": "2026-09-22T16:10:19Z",
+        "updated_at": "2026-09-22T16:12:07Z"
       },
       "release": {
         "tag": "v2.042.1.062.1.026",
@@ -44,9 +44,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/avahi/actions/runs/35747522038",
-        "run_at": "2026-09-22T15:27:49Z",
-        "updated_at": "2026-09-22T15:30:14Z"
+        "url": "https://github.com/Matrinsoft/avahi/actions/runs/35752331325",
+        "run_at": "2026-09-22T16:10:26Z",
+        "updated_at": "2026-09-22T16:12:31Z"
       },
       "release": {
         "tag": "v0.9-rc2",
@@ -62,9 +62,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/backgrounds/actions/runs/35747528030",
-        "run_at": "2026-09-22T15:27:53Z",
-        "updated_at": "2026-09-22T15:28:51Z"
+        "url": "https://github.com/Matrinsoft/backgrounds/actions/runs/35752344412",
+        "run_at": "2026-09-22T16:10:32Z",
+        "updated_at": "2026-09-22T16:11:23Z"
       },
       "release": {
         "tag": "v51-beta",
@@ -80,9 +80,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/baobab/actions/runs/35747535784",
-        "run_at": "2026-09-22T15:27:57Z",
-        "updated_at": "2026-09-22T15:29:17Z"
+        "url": "https://github.com/Matrinsoft/baobab/actions/runs/35752350993",
+        "run_at": "2026-09-22T16:10:36Z",
+        "updated_at": "2026-09-22T16:11:57Z"
       },
       "release": {
         "tag": "v50.0",
@@ -98,9 +98,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/bluetooth/actions/runs/35747546903",
-        "run_at": "2026-09-22T15:28:02Z",
-        "updated_at": "2026-09-22T15:31:17Z"
+        "url": "https://github.com/Matrinsoft/bluetooth/actions/runs/35752360815",
+        "run_at": "2026-09-22T16:10:41Z",
+        "updated_at": "2026-09-22T16:12:35Z"
       },
       "release": {
         "tag": "v47.2",
@@ -116,9 +116,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/boxes/actions/runs/35747553927",
-        "run_at": "2026-09-22T15:28:06Z",
-        "updated_at": "2026-09-22T15:30:31Z"
+        "url": "https://github.com/Matrinsoft/boxes/actions/runs/35752372783",
+        "run_at": "2026-09-22T16:10:47Z",
+        "updated_at": "2026-09-22T16:13:57Z"
       },
       "release": {
         "tag": "v50.0",
@@ -134,9 +134,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/browser-connector/actions/runs/35747571146",
-        "run_at": "2026-09-22T15:28:14Z",
-        "updated_at": "2026-09-22T15:29:01Z"
+        "url": "https://github.com/Matrinsoft/browser-connector/actions/runs/35752379396",
+        "run_at": "2026-09-22T16:10:51Z",
+        "updated_at": "2026-09-22T16:11:30Z"
       },
       "release": {
         "tag": "v42.1",
@@ -152,9 +152,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/calculator/actions/runs/35747585431",
-        "run_at": "2026-09-22T15:28:22Z",
-        "updated_at": "2026-09-22T15:31:02Z"
+        "url": "https://github.com/Matrinsoft/calculator/actions/runs/35752385443",
+        "run_at": "2026-09-22T16:10:54Z",
+        "updated_at": "2026-09-22T16:13:22Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -170,9 +170,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/calendar/actions/runs/35747594068",
-        "run_at": "2026-09-22T15:28:26Z",
-        "updated_at": "2026-09-22T15:31:31Z"
+        "url": "https://github.com/Matrinsoft/calendar/actions/runs/35752391770",
+        "run_at": "2026-09-22T16:10:57Z",
+        "updated_at": "2026-09-22T16:13:59Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -188,9 +188,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/characters/actions/runs/35747604096",
-        "run_at": "2026-09-22T15:28:31Z",
-        "updated_at": "2026-09-22T15:30:13Z"
+        "url": "https://github.com/Matrinsoft/characters/actions/runs/35752404158",
+        "run_at": "2026-09-22T16:11:04Z",
+        "updated_at": "2026-09-22T16:12:22Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -206,9 +206,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/clocks/actions/runs/35747613589",
-        "run_at": "2026-09-22T15:28:36Z",
-        "updated_at": "2026-09-22T15:30:17Z"
+        "url": "https://github.com/Matrinsoft/clocks/actions/runs/35752411729",
+        "run_at": "2026-09-22T16:11:08Z",
+        "updated_at": "2026-09-22T16:12:40Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -224,9 +224,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/color-manager/actions/runs/35747621760",
-        "run_at": "2026-09-22T15:28:40Z",
-        "updated_at": "2026-09-22T15:30:08Z"
+        "url": "https://github.com/Matrinsoft/color-manager/actions/runs/35752419629",
+        "run_at": "2026-09-22T16:11:12Z",
+        "updated_at": "2026-09-22T16:12:48Z"
       },
       "release": {
         "tag": "v3.36.2",
@@ -242,9 +242,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/connections/actions/runs/35747629565",
-        "run_at": "2026-09-22T15:28:43Z",
-        "updated_at": "2026-09-22T15:30:20Z"
+        "url": "https://github.com/Matrinsoft/connections/actions/runs/35752426408",
+        "run_at": "2026-09-22T16:11:15Z",
+        "updated_at": "2026-09-22T16:13:00Z"
       },
       "release": {
         "tag": "v51-rc.1",
@@ -260,9 +260,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/contacts/actions/runs/35747636687",
-        "run_at": "2026-09-22T15:28:47Z",
-        "updated_at": "2026-09-22T15:31:29Z"
+        "url": "https://github.com/Matrinsoft/contacts/actions/runs/35752435459",
+        "run_at": "2026-09-22T16:11:20Z",
+        "updated_at": "2026-09-22T16:13:14Z"
       },
       "release": {
         "tag": "v50.0",
@@ -278,9 +278,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/control-center/actions/runs/35747650455",
-        "run_at": "2026-09-22T15:28:54Z",
-        "updated_at": "2026-09-22T15:33:00Z"
+        "url": "https://github.com/Matrinsoft/control-center/actions/runs/35752441301",
+        "run_at": "2026-09-22T16:11:23Z",
+        "updated_at": "2026-09-22T16:16:05Z"
       },
       "release": {
         "tag": "v51-rc.1",
@@ -296,9 +296,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/dconf/actions/runs/35747656713",
-        "run_at": "2026-09-22T15:28:57Z",
-        "updated_at": "2026-09-22T15:30:01Z"
+        "url": "https://github.com/Matrinsoft/dconf/actions/runs/35752448253",
+        "run_at": "2026-09-22T16:11:27Z",
+        "updated_at": "2026-09-22T16:12:36Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -314,9 +314,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/decibels/actions/runs/35747668199",
-        "run_at": "2026-09-22T15:29:03Z",
-        "updated_at": "2026-09-22T15:30:40Z"
+        "url": "https://github.com/Matrinsoft/decibels/actions/runs/35752458531",
+        "run_at": "2026-09-22T16:11:33Z",
+        "updated_at": "2026-09-22T16:13:20Z"
       },
       "release": {
         "tag": "v49.6.1",
@@ -332,9 +332,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/desktop3/actions/runs/35747676117",
-        "run_at": "2026-09-22T15:29:07Z",
-        "updated_at": "2026-09-22T15:30:42Z"
+        "url": "https://github.com/Matrinsoft/desktop3/actions/runs/35752465841",
+        "run_at": "2026-09-22T16:11:37Z",
+        "updated_at": "2026-09-22T16:13:33Z"
       },
       "release": {
         "tag": "v51-alpha",
@@ -350,9 +350,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/disk-utility/actions/runs/35747684568",
-        "run_at": "2026-09-22T15:29:11Z",
-        "updated_at": "2026-09-22T15:31:09Z"
+        "url": "https://github.com/Matrinsoft/disk-utility/actions/runs/35752472069",
+        "run_at": "2026-09-22T16:11:40Z",
+        "updated_at": "2026-09-22T16:13:45Z"
       },
       "release": {
         "tag": "v46.1",
@@ -368,9 +368,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/epub-thumbnailer/actions/runs/35747701758",
-        "run_at": "2026-09-22T15:29:20Z",
-        "updated_at": "2026-09-22T15:30:21Z"
+        "url": "https://github.com/Matrinsoft/epub-thumbnailer/actions/runs/35752480874",
+        "run_at": "2026-09-22T16:11:45Z",
+        "updated_at": "2026-09-22T16:12:52Z"
       },
       "release": {
         "tag": "v1.8",
@@ -386,9 +386,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/font-viewer/actions/runs/35747710095",
-        "run_at": "2026-09-22T15:29:24Z",
-        "updated_at": "2026-09-22T15:30:43Z"
+        "url": "https://github.com/Matrinsoft/font-viewer/actions/runs/35752485055",
+        "run_at": "2026-09-22T16:11:47Z",
+        "updated_at": "2026-09-22T16:13:22Z"
       },
       "release": {
         "tag": "v50.0",
@@ -404,9 +404,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/fprintd/actions/runs/35747717429",
-        "run_at": "2026-09-22T15:29:28Z",
-        "updated_at": "2026-09-22T15:30:40Z"
+        "url": "https://github.com/Matrinsoft/fprintd/actions/runs/35752496228",
+        "run_at": "2026-09-22T16:11:54Z",
+        "updated_at": "2026-09-22T16:14:16Z"
       },
       "release": {
         "tag": "v1.94.5",
@@ -422,9 +422,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/gdm/actions/runs/35747734746",
-        "run_at": "2026-09-22T15:29:37Z",
-        "updated_at": "2026-09-22T15:31:24Z"
+        "url": "https://github.com/Matrinsoft/gdm/actions/runs/35752507616",
+        "run_at": "2026-09-22T16:12:00Z",
+        "updated_at": "2026-09-22T16:13:44Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -440,9 +440,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/geoclue2/actions/runs/35747745258",
-        "run_at": "2026-09-22T15:29:42Z",
-        "updated_at": "2026-09-22T15:32:14Z"
+        "url": "https://github.com/Matrinsoft/geoclue2/actions/runs/35752519198",
+        "run_at": "2026-09-22T16:12:06Z",
+        "updated_at": "2026-09-22T16:13:55Z"
       },
       "release": {
         "tag": "v2.8.2",
@@ -458,9 +458,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/gjs/actions/runs/35747755900",
-        "run_at": "2026-09-22T15:29:48Z",
-        "updated_at": "2026-09-22T15:33:18Z"
+        "url": "https://github.com/Matrinsoft/gjs/actions/runs/35752531706",
+        "run_at": "2026-09-22T16:12:13Z",
+        "updated_at": "2026-09-22T16:18:12Z"
       },
       "release": {
         "tag": "v1.89.90",
@@ -476,9 +476,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/glib-networking/actions/runs/35747769543",
-        "run_at": "2026-09-22T15:29:55Z",
-        "updated_at": "2026-09-22T15:31:10Z"
+        "url": "https://github.com/Matrinsoft/glib-networking/actions/runs/35752541604",
+        "run_at": "2026-09-22T16:12:18Z",
+        "updated_at": "2026-09-22T16:13:40Z"
       },
       "release": {
         "tag": "v2.90-alpha",
@@ -494,9 +494,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/glib2/actions/runs/35747782578",
-        "run_at": "2026-09-22T15:30:01Z",
-        "updated_at": "2026-09-22T15:37:50Z"
+        "url": "https://github.com/Matrinsoft/glib2/actions/runs/35752550392",
+        "run_at": "2026-09-22T16:12:23Z",
+        "updated_at": "2026-09-22T16:19:48Z"
       },
       "release": {
         "tag": "v2.89.4",
@@ -512,9 +512,9 @@
         "conclusion": "failure",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/glycin/actions/runs/35747801294",
-        "run_at": "2026-09-22T15:30:11Z",
-        "updated_at": "2026-09-22T15:31:22Z"
+        "url": "https://github.com/Matrinsoft/glycin/actions/runs/35752561046",
+        "run_at": "2026-09-22T16:12:28Z",
+        "updated_at": "2026-09-22T16:13:44Z"
       },
       "release": {
         "tag": null
@@ -527,9 +527,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/gsettings-desktop-schemas/actions/runs/35747810554",
-        "run_at": "2026-09-22T15:30:15Z",
-        "updated_at": "2026-09-22T15:31:39Z"
+        "url": "https://github.com/Matrinsoft/gsettings-desktop-schemas/actions/runs/35752572432",
+        "run_at": "2026-09-22T16:12:34Z",
+        "updated_at": "2026-09-22T16:14:33Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -545,9 +545,9 @@
         "conclusion": "failure",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/gst-thumbnailers/actions/runs/35747819750",
-        "run_at": "2026-09-22T15:30:20Z",
-        "updated_at": "2026-09-22T15:33:16Z"
+        "url": "https://github.com/Matrinsoft/gst-thumbnailers/actions/runs/35752580507",
+        "run_at": "2026-09-22T16:12:39Z",
+        "updated_at": "2026-09-22T16:14:56Z"
       },
       "release": {
         "tag": null
@@ -556,13 +556,13 @@
     {
       "name": "gtk4",
       "build": {
-        "status": "completed",
-        "conclusion": "success",
+        "status": "in_progress",
+        "conclusion": null,
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/gtk4/actions/runs/35747827737",
-        "run_at": "2026-09-22T15:30:24Z",
-        "updated_at": "2026-09-22T15:41:57Z"
+        "url": "https://github.com/Matrinsoft/gtk4/actions/runs/35752588649",
+        "run_at": "2026-09-22T16:12:44Z",
+        "updated_at": "2026-09-22T16:13:18Z"
       },
       "release": {
         "tag": "v4.23.4",
@@ -578,9 +578,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/gvfs/actions/runs/35747843281",
-        "run_at": "2026-09-22T15:30:31Z",
-        "updated_at": "2026-09-22T15:33:05Z"
+        "url": "https://github.com/Matrinsoft/gvfs/actions/runs/35752593712",
+        "run_at": "2026-09-22T16:12:46Z",
+        "updated_at": "2026-09-22T16:15:08Z"
       },
       "release": {
         "tag": "v1.61.91",
@@ -596,9 +596,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/hplip/actions/runs/35747852414",
-        "run_at": "2026-09-22T15:30:35Z",
-        "updated_at": "2026-09-22T15:35:34Z"
+        "url": "https://github.com/Matrinsoft/hplip/actions/runs/35752601603",
+        "run_at": "2026-09-22T16:12:50Z",
+        "updated_at": "2026-09-22T16:20:43Z"
       },
       "release": {
         "tag": "v3.26.4",
@@ -614,9 +614,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/initial-setup/actions/runs/35747866029",
-        "run_at": "2026-09-22T15:30:41Z",
-        "updated_at": "2026-09-22T15:35:52Z"
+        "url": "https://github.com/Matrinsoft/initial-setup/actions/runs/35752608814",
+        "run_at": "2026-09-22T16:12:54Z",
+        "updated_at": "2026-09-22T16:16:25Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -628,13 +628,13 @@
     {
       "name": "libadwaita",
       "build": {
-        "status": "completed",
-        "conclusion": "success",
+        "status": "in_progress",
+        "conclusion": null,
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/libadwaita/actions/runs/35747873473",
-        "run_at": "2026-09-22T15:30:45Z",
-        "updated_at": "2026-09-22T15:45:49Z"
+        "url": "https://github.com/Matrinsoft/libadwaita/actions/runs/35752618354",
+        "run_at": "2026-09-22T16:12:59Z",
+        "updated_at": "2026-09-22T16:13:37Z"
       },
       "release": {
         "tag": "v1.10-beta.1",
@@ -650,9 +650,9 @@
         "conclusion": "failure",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/librsvg2/actions/runs/35747883148",
-        "run_at": "2026-09-22T15:30:50Z",
-        "updated_at": "2026-09-22T15:32:09Z"
+        "url": "https://github.com/Matrinsoft/librsvg2/actions/runs/35752627747",
+        "run_at": "2026-09-22T16:13:04Z",
+        "updated_at": "2026-09-22T16:14:21Z"
       },
       "release": {
         "tag": null
@@ -665,9 +665,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/localsearch/actions/runs/35747897727",
-        "run_at": "2026-09-22T15:30:57Z",
-        "updated_at": "2026-09-22T15:33:07Z"
+        "url": "https://github.com/Matrinsoft/localsearch/actions/runs/35752637018",
+        "run_at": "2026-09-22T16:13:09Z",
+        "updated_at": "2026-09-22T16:15:54Z"
       },
       "release": {
         "tag": "v3.12-rc",
@@ -683,9 +683,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/logs/actions/runs/35747910927",
-        "run_at": "2026-09-22T15:31:03Z",
-        "updated_at": "2026-09-22T15:33:05Z"
+        "url": "https://github.com/Matrinsoft/logs/actions/runs/35752645391",
+        "run_at": "2026-09-22T16:13:13Z",
+        "updated_at": "2026-09-22T16:15:36Z"
       },
       "release": {
         "tag": "v50.0",
@@ -701,9 +701,9 @@
         "conclusion": "failure",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/loupe/actions/runs/35747918473",
-        "run_at": "2026-09-22T15:31:07Z",
-        "updated_at": "2026-09-22T15:32:18Z"
+        "url": "https://github.com/Matrinsoft/loupe/actions/runs/35752654839",
+        "run_at": "2026-09-22T16:13:18Z",
+        "updated_at": "2026-09-22T16:15:21Z"
       },
       "release": {
         "tag": null
@@ -716,9 +716,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/maps/actions/runs/35747936587",
-        "run_at": "2026-09-22T15:31:17Z",
-        "updated_at": "2026-09-22T15:33:46Z"
+        "url": "https://github.com/Matrinsoft/maps/actions/runs/35752660921",
+        "run_at": "2026-09-22T16:13:21Z",
+        "updated_at": "2026-09-22T16:15:17Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -734,9 +734,9 @@
         "conclusion": "failure",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/mesa/actions/runs/35747949560",
-        "run_at": "2026-09-22T15:31:24Z",
-        "updated_at": "2026-09-22T15:34:19Z"
+        "url": "https://github.com/Matrinsoft/mesa/actions/runs/35752670991",
+        "run_at": "2026-09-22T16:13:26Z",
+        "updated_at": "2026-09-22T16:15:42Z"
       },
       "release": {
         "tag": null
@@ -749,9 +749,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/mutter/actions/runs/35747958941",
-        "run_at": "2026-09-22T15:31:29Z",
-        "updated_at": "2026-09-22T15:39:31Z"
+        "url": "https://github.com/Matrinsoft/mutter/actions/runs/35752685378",
+        "run_at": "2026-09-22T16:13:33Z",
+        "updated_at": "2026-09-22T16:21:20Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -767,9 +767,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/nautilus/actions/runs/35747967274",
-        "run_at": "2026-09-22T15:31:33Z",
-        "updated_at": "2026-09-22T15:34:37Z"
+        "url": "https://github.com/Matrinsoft/nautilus/actions/runs/35752691096",
+        "run_at": "2026-09-22T16:13:36Z",
+        "updated_at": "2026-09-22T16:16:53Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -781,13 +781,13 @@
     {
       "name": "NetworkManager",
       "build": {
-        "status": "completed",
-        "conclusion": "success",
+        "status": "in_progress",
+        "conclusion": null,
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/NetworkManager/actions/runs/35747432647",
-        "run_at": "2026-09-22T15:27:07Z",
-        "updated_at": "2026-09-22T15:50:45Z"
+        "url": "https://github.com/Matrinsoft/NetworkManager/actions/runs/35752253303",
+        "run_at": "2026-09-22T16:09:45Z",
+        "updated_at": "2026-09-22T16:09:50Z"
       },
       "release": {
         "tag": "v1.58.1",
@@ -803,9 +803,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/NetworkManager-libreswan/actions/runs/35747437935",
-        "run_at": "2026-09-22T15:27:09Z",
-        "updated_at": "2026-09-22T15:28:42Z"
+        "url": "https://github.com/Matrinsoft/NetworkManager-libreswan/actions/runs/35752259515",
+        "run_at": "2026-09-22T16:09:49Z",
+        "updated_at": "2026-09-22T16:11:16Z"
       },
       "release": {
         "tag": "v1.2.30",
@@ -821,9 +821,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/NetworkManager-openconnect/actions/runs/35747455544",
-        "run_at": "2026-09-22T15:27:18Z",
-        "updated_at": "2026-09-22T15:28:58Z"
+        "url": "https://github.com/Matrinsoft/NetworkManager-openconnect/actions/runs/35752268070",
+        "run_at": "2026-09-22T16:09:53Z",
+        "updated_at": "2026-09-22T16:11:52Z"
       },
       "release": {
         "tag": "v1.2.10",
@@ -839,9 +839,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/NetworkManager-openvpn/actions/runs/35747469276",
-        "run_at": "2026-09-22T15:27:25Z",
-        "updated_at": "2026-09-22T15:28:46Z"
+        "url": "https://github.com/Matrinsoft/NetworkManager-openvpn/actions/runs/35752278889",
+        "run_at": "2026-09-22T16:09:59Z",
+        "updated_at": "2026-09-22T16:11:51Z"
       },
       "release": {
         "tag": "v1.12.5",
@@ -857,9 +857,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/NetworkManager-ssh/actions/runs/35747485931",
-        "run_at": "2026-09-22T15:27:32Z",
-        "updated_at": "2026-09-22T15:28:55Z"
+        "url": "https://github.com/Matrinsoft/NetworkManager-ssh/actions/runs/35752285705",
+        "run_at": "2026-09-22T16:10:03Z",
+        "updated_at": "2026-09-22T16:11:46Z"
       },
       "release": {
         "tag": "v1.4.5",
@@ -875,9 +875,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/PackageKit/actions/runs/35747495425",
-        "run_at": "2026-09-22T15:27:37Z",
-        "updated_at": "2026-09-22T15:29:52Z"
+        "url": "https://github.com/Matrinsoft/PackageKit/actions/runs/35752297947",
+        "run_at": "2026-09-22T16:10:09Z",
+        "updated_at": "2026-09-22T16:12:28Z"
       },
       "release": {
         "tag": "v1.4.0",
@@ -893,9 +893,9 @@
         "conclusion": "failure",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/papers/actions/runs/35747978694",
-        "run_at": "2026-09-22T15:31:39Z",
-        "updated_at": "2026-09-22T15:33:19Z"
+        "url": "https://github.com/Matrinsoft/papers/actions/runs/35752700969",
+        "run_at": "2026-09-22T16:13:41Z",
+        "updated_at": "2026-09-22T16:14:53Z"
       },
       "release": {
         "tag": null
@@ -908,9 +908,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/polkit/actions/runs/35747992046",
-        "run_at": "2026-09-22T15:31:46Z",
-        "updated_at": "2026-09-22T15:33:34Z"
+        "url": "https://github.com/Matrinsoft/polkit/actions/runs/35752709317",
+        "run_at": "2026-09-22T16:13:46Z",
+        "updated_at": "2026-09-22T16:17:44Z"
       },
       "release": {
         "tag": "v127",
@@ -926,9 +926,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/ptyxis/actions/runs/35748005386",
-        "run_at": "2026-09-22T15:31:53Z",
-        "updated_at": "2026-09-22T15:34:04Z"
+        "url": "https://github.com/Matrinsoft/ptyxis/actions/runs/35752719749",
+        "run_at": "2026-09-22T16:13:51Z",
+        "updated_at": "2026-09-22T16:16:09Z"
       },
       "release": {
         "tag": "v50.1",
@@ -944,9 +944,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/remote-desktop/actions/runs/35748020714",
-        "run_at": "2026-09-22T15:32:01Z",
-        "updated_at": "2026-09-22T15:35:12Z"
+        "url": "https://github.com/Matrinsoft/remote-desktop/actions/runs/35752727613",
+        "run_at": "2026-09-22T16:13:56Z",
+        "updated_at": "2026-09-22T16:17:21Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -962,9 +962,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/rygel/actions/runs/35748031475",
-        "run_at": "2026-09-22T15:32:07Z",
-        "updated_at": "2026-09-22T15:34:32Z"
+        "url": "https://github.com/Matrinsoft/rygel/actions/runs/35752733197",
+        "run_at": "2026-09-22T16:13:59Z",
+        "updated_at": "2026-09-22T16:18:57Z"
       },
       "release": {
         "tag": "v46-rc.0",
@@ -980,9 +980,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/sane-backends/actions/runs/35748053023",
-        "run_at": "2026-09-22T15:32:17Z",
-        "updated_at": "2026-09-22T15:36:34Z"
+        "url": "https://github.com/Matrinsoft/sane-backends/actions/runs/35752743697",
+        "run_at": "2026-09-22T16:14:05Z",
+        "updated_at": "2026-09-22T16:18:54Z"
       },
       "release": {
         "tag": "v1.4.0",
@@ -998,9 +998,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/session/actions/runs/35748068730",
-        "run_at": "2026-09-22T15:32:26Z",
-        "updated_at": "2026-09-22T15:34:34Z"
+        "url": "https://github.com/Matrinsoft/session/actions/runs/35752755483",
+        "run_at": "2026-09-22T16:14:11Z",
+        "updated_at": "2026-09-22T16:17:11Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -1016,9 +1016,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/settings-daemon/actions/runs/35748076140",
-        "run_at": "2026-09-22T15:32:30Z",
-        "updated_at": "2026-09-22T15:35:25Z"
+        "url": "https://github.com/Matrinsoft/settings-daemon/actions/runs/35752761958",
+        "run_at": "2026-09-22T16:14:14Z",
+        "updated_at": "2026-09-22T16:19:29Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -1034,9 +1034,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/shell/actions/runs/35748088259",
-        "run_at": "2026-09-22T15:32:36Z",
-        "updated_at": "2026-09-22T15:37:02Z"
+        "url": "https://github.com/Matrinsoft/shell/actions/runs/35752768711",
+        "run_at": "2026-09-22T16:14:19Z",
+        "updated_at": "2026-09-22T16:18:43Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -1052,9 +1052,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/shell-extensions/actions/runs/35748100982",
-        "run_at": "2026-09-22T15:32:42Z",
-        "updated_at": "2026-09-22T15:33:58Z"
+        "url": "https://github.com/Matrinsoft/shell-extensions/actions/runs/35752782218",
+        "run_at": "2026-09-22T16:14:26Z",
+        "updated_at": "2026-09-22T16:16:12Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -1070,9 +1070,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/showtime/actions/runs/35748115186",
-        "run_at": "2026-09-22T15:32:50Z",
-        "updated_at": "2026-09-22T15:34:45Z"
+        "url": "https://github.com/Matrinsoft/showtime/actions/runs/35752792887",
+        "run_at": "2026-09-22T16:14:31Z",
+        "updated_at": "2026-09-22T16:17:04Z"
       },
       "release": {
         "tag": "v50.0",
@@ -1088,9 +1088,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/simple-scan/actions/runs/35748132183",
-        "run_at": "2026-09-22T15:32:58Z",
-        "updated_at": "2026-09-22T15:35:16Z"
+        "url": "https://github.com/Matrinsoft/simple-scan/actions/runs/35752800190",
+        "run_at": "2026-09-22T16:14:35Z",
+        "updated_at": "2026-09-22T16:17:04Z"
       },
       "release": {
         "tag": "v50.0",
@@ -1106,9 +1106,9 @@
         "conclusion": "failure",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/snapshot/actions/runs/35748149647",
-        "run_at": "2026-09-22T15:33:07Z",
-        "updated_at": "2026-09-22T15:36:14Z"
+        "url": "https://github.com/Matrinsoft/snapshot/actions/runs/35752807510",
+        "run_at": "2026-09-22T16:14:39Z",
+        "updated_at": "2026-09-22T16:15:56Z"
       },
       "release": {
         "tag": null
@@ -1121,9 +1121,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/software/actions/runs/35748157421",
-        "run_at": "2026-09-22T15:33:11Z",
-        "updated_at": "2026-09-22T15:37:10Z"
+        "url": "https://github.com/Matrinsoft/software/actions/runs/35752818455",
+        "run_at": "2026-09-22T16:14:45Z",
+        "updated_at": "2026-09-22T16:18:55Z"
       },
       "release": {
         "tag": "v51.0",
@@ -1139,9 +1139,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/sushi/actions/runs/35748165754",
-        "run_at": "2026-09-22T15:33:15Z",
-        "updated_at": "2026-09-22T15:37:13Z"
+        "url": "https://github.com/Matrinsoft/sushi/actions/runs/35752825207",
+        "run_at": "2026-09-22T16:14:49Z",
+        "updated_at": "2026-09-22T16:17:27Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -1157,9 +1157,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/system-monitor/actions/runs/35748176093",
-        "run_at": "2026-09-22T15:33:21Z",
-        "updated_at": "2026-09-22T15:37:09Z"
+        "url": "https://github.com/Matrinsoft/system-monitor/actions/runs/35752839462",
+        "run_at": "2026-09-22T16:14:57Z",
+        "updated_at": "2026-09-22T16:18:42Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -1171,13 +1171,13 @@
     {
       "name": "systemd",
       "build": {
-        "status": "completed",
-        "conclusion": "success",
+        "status": "in_progress",
+        "conclusion": null,
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/systemd/actions/runs/35748191759",
-        "run_at": "2026-09-22T15:33:29Z",
-        "updated_at": "2026-09-22T15:49:18Z"
+        "url": "https://github.com/Matrinsoft/systemd/actions/runs/35752847697",
+        "run_at": "2026-09-22T16:15:02Z",
+        "updated_at": "2026-09-22T16:17:07Z"
       },
       "release": {
         "tag": "v262-rc3",
@@ -1193,9 +1193,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/text-editor/actions/runs/35748200474",
-        "run_at": "2026-09-22T15:33:34Z",
-        "updated_at": "2026-09-22T15:36:59Z"
+        "url": "https://github.com/Matrinsoft/text-editor/actions/runs/35752865448",
+        "run_at": "2026-09-22T16:15:10Z",
+        "updated_at": "2026-09-22T16:18:30Z"
       },
       "release": {
         "tag": "v51-beta",
@@ -1211,9 +1211,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/tinysparql/actions/runs/35748210500",
-        "run_at": "2026-09-22T15:33:39Z",
-        "updated_at": "2026-09-22T15:37:55Z"
+        "url": "https://github.com/Matrinsoft/tinysparql/actions/runs/35752873672",
+        "run_at": "2026-09-22T16:15:14Z",
+        "updated_at": "2026-09-22T16:19:36Z"
       },
       "release": {
         "tag": "v3.12-rc",
@@ -1229,9 +1229,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/upower/actions/runs/35748217939",
-        "run_at": "2026-09-22T15:33:43Z",
-        "updated_at": "2026-09-22T15:36:33Z"
+        "url": "https://github.com/Matrinsoft/upower/actions/runs/35752880838",
+        "run_at": "2026-09-22T16:15:18Z",
+        "updated_at": "2026-09-22T16:19:15Z"
       },
       "release": {
         "tag": "v1.91.4",
@@ -1247,9 +1247,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/user-docs/actions/runs/35748226525",
-        "run_at": "2026-09-22T15:33:47Z",
-        "updated_at": "2026-09-22T15:38:38Z"
+        "url": "https://github.com/Matrinsoft/user-docs/actions/runs/35752887996",
+        "run_at": "2026-09-22T16:15:22Z",
+        "updated_at": "2026-09-22T16:21:58Z"
       },
       "release": {
         "tag": "v51-beta",
@@ -1265,9 +1265,9 @@
         "conclusion": "failure",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/user-share/actions/runs/35748237213",
-        "run_at": "2026-09-22T15:33:53Z",
-        "updated_at": "2026-09-22T15:35:16Z"
+        "url": "https://github.com/Matrinsoft/user-share/actions/runs/35752894590",
+        "run_at": "2026-09-22T16:15:25Z",
+        "updated_at": "2026-09-22T16:18:28Z"
       },
       "release": {
         "tag": null
@@ -1280,9 +1280,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/vte291/actions/runs/35748249491",
-        "run_at": "2026-09-22T15:33:59Z",
-        "updated_at": "2026-09-22T15:40:58Z"
+        "url": "https://github.com/Matrinsoft/vte291/actions/runs/35752901281",
+        "run_at": "2026-09-22T16:15:29Z",
+        "updated_at": "2026-09-22T16:22:41Z"
       },
       "release": {
         "tag": "v0.84.1",
@@ -1298,9 +1298,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/weather/actions/runs/35748257574",
-        "run_at": "2026-09-22T15:34:03Z",
-        "updated_at": "2026-09-22T15:36:54Z"
+        "url": "https://github.com/Matrinsoft/weather/actions/runs/35752915808",
+        "run_at": "2026-09-22T16:15:36Z",
+        "updated_at": "2026-09-22T16:20:28Z"
       },
       "release": {
         "tag": "v50.0",
@@ -1316,9 +1316,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/xdg-desktop-portal/actions/runs/35748273235",
-        "run_at": "2026-09-22T15:34:12Z",
-        "updated_at": "2026-09-22T15:37:59Z"
+        "url": "https://github.com/Matrinsoft/xdg-desktop-portal/actions/runs/35752930298",
+        "run_at": "2026-09-22T16:15:44Z",
+        "updated_at": "2026-09-22T16:18:31Z"
       },
       "release": {
         "tag": "v1.22.1",
@@ -1334,9 +1334,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/xdg-desktop-portal-gnome/actions/runs/35748280782",
-        "run_at": "2026-09-22T15:34:16Z",
-        "updated_at": "2026-09-22T15:36:21Z"
+        "url": "https://github.com/Matrinsoft/xdg-desktop-portal-gnome/actions/runs/35752945390",
+        "run_at": "2026-09-22T16:15:51Z",
+        "updated_at": "2026-09-22T16:20:18Z"
       },
       "release": {
         "tag": "v51-rc",
@@ -1352,9 +1352,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/xdg-desktop-portal-gtk/actions/runs/35748290925",
-        "run_at": "2026-09-22T15:34:21Z",
-        "updated_at": "2026-09-22T15:36:17Z"
+        "url": "https://github.com/Matrinsoft/xdg-desktop-portal-gtk/actions/runs/35752951495",
+        "run_at": "2026-09-22T16:15:55Z",
+        "updated_at": "2026-09-22T16:18:36Z"
       },
       "release": {
         "tag": "v1.15.3",
@@ -1370,9 +1370,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/xdg-user-dirs-gtk/actions/runs/35748303316",
-        "run_at": "2026-09-22T15:34:28Z",
-        "updated_at": "2026-09-22T15:35:29Z"
+        "url": "https://github.com/Matrinsoft/xdg-user-dirs-gtk/actions/runs/35752960269",
+        "run_at": "2026-09-22T16:15:59Z",
+        "updated_at": "2026-09-22T16:21:55Z"
       },
       "release": {
         "tag": "v0.16",
@@ -1388,9 +1388,9 @@
         "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
-        "url": "https://github.com/Matrinsoft/yelp/actions/runs/35748318491",
-        "run_at": "2026-09-22T15:34:35Z",
-        "updated_at": "2026-09-22T15:38:04Z"
+        "url": "https://github.com/Matrinsoft/yelp/actions/runs/35752969074",
+        "run_at": "2026-09-22T16:16:04Z",
+        "updated_at": "2026-09-22T16:20:27Z"
       },
       "release": {
         "tag": "v49.2",
