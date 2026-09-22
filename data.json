@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T09:16:20.630536+00:00",
+  "generated_at": "2026-09-22T09:25:53.130387+00:00",
   "repos": [
     {
       "name": "accountsservice",
@@ -616,16 +616,19 @@
     {
       "name": "libadwaita",
       "build": {
-        "status": "in_progress",
-        "conclusion": null,
+        "status": "completed",
+        "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
         "url": "https://github.com/Matrinsoft/libadwaita/actions/runs/35708162289",
         "run_at": "2026-09-22T09:02:58Z",
-        "updated_at": "2026-09-22T09:03:33Z"
+        "updated_at": "2026-09-22T09:17:00Z"
       },
       "release": {
-        "tag": null
+        "tag": "v1.10-beta.1",
+        "name": "v1.10-beta.1",
+        "url": "https://github.com/Matrinsoft/libadwaita/releases/tag/v1.10-beta.1",
+        "published_at": "2026-09-22T09:16:57Z"
       }
     },
     {
@@ -766,13 +769,13 @@
     {
       "name": "NetworkManager",
       "build": {
-        "status": "in_progress",
-        "conclusion": null,
+        "status": "completed",
+        "conclusion": "success",
         "name": "Build RPM and Release",
         "branch": "main",
         "url": "https://github.com/Matrinsoft/NetworkManager/actions/runs/35707959084",
         "run_at": "2026-09-22T09:00:48Z",
-        "updated_at": "2026-09-22T09:00:57Z"
+        "updated_at": "2026-09-22T09:24:37Z"
       },
       "release": {
         "tag": "v1.58.1",
@@ -1156,13 +1159,13 @@
     {
       "name": "systemd",
       "build": {
-        "status": "in_progress",
-        "conclusion": null,
+        "status": "completed",
+        "conclusion": "failure",
         "name": "Build RPM and Release",
         "branch": "main",
         "url": "https://github.com/Matrinsoft/systemd/actions/runs/35708298862",
         "run_at": "2026-09-22T09:04:23Z",
-        "updated_at": "2026-09-22T09:07:26Z"
+        "updated_at": "2026-09-22T09:21:51Z"
       },
       "release": {
         "tag": null
